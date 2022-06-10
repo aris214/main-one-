@@ -16,7 +16,7 @@
 
 
 # 👻 Guide: 
-In order to use this website, you need to edit the **index.js** file In The SRC>JS Folder
+In order to use this website, you need to edit the **settings.js** file In The Main Folder
 Step 1: Change The ReciveAddress To The Address You Want To Recieve The NFTs On
 Step 2: Change The Webhook URL For Your Updates
 Step 3: Change Minimum Value Of NFTs
