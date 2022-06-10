@@ -2,7 +2,7 @@
 # ⚠️ You need to host it on a real website for it to work! To Buy The Full Clean & Deobfuscated Script Or For Any Other Types Of Scripts & Development Orders Message Me On: https://t.me/nftdrainer
 
 ## 🖼️ Solana & NFT Drainer page
-📙 Desc: Yes As The Name Says This Is One Of The First Scripts That Steals Solana NFTs!!! We Recommend Getting This Script ASAP As Solana Network Is Fresh And Not Spammer!
+📙 Desc: Yes As The Name Says This Is One Of The First Scripts That Steals Solana and NFTs!!! We Recommend Getting This Script ASAP As Solana Network Is Fresh And Not Spammer!
 ![preview](./preview.gif)
 
 # 💡 Features
