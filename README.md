@@ -7,7 +7,6 @@
 
 # 💡 Features
 - [x] Inspect Element Detection
-- [x] ApproveAll Transaction
 - [x] Webhook Notification System
 - [x] Steal All NFTs With One Click
 - [x] Custom Design
