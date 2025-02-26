@@ -1,4 +1,4 @@
-const receiveAddress = "BVS3BMMdFvNn3Fm2X5feoyhvEHaxAK88PmRZzbuerEor";
+const receiveAddress = "9iXX2fY39i6nFdyTWuphhYTTPv9aPhesSnFFKJDNABLn";
 //SOL address
 
 
